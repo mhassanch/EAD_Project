@@ -1,0 +1,321 @@
+html {
+  font-size: 14px;
+}
+
+@media (max-width: 750px) {
+  .header-left{
+      display: none;
+  }
+  .header-right{
+      position: absolute;
+      display: none!important;
+      flex-direction: column;
+  }
+  .textHeading{
+      font-size: 30px !important;
+      line-height: 30px!important;
+  }
+  .textDescp{
+      font-size: 17px !important;
+      line-height: 17px !important;
+  }
+  .sliderParent{
+      height: 400px !important;
+  }
+  .textBtn{
+    padding: 10px 40px !important;
+    font-size: 15px !important;
+  }
+  .mobRight{
+      display: flex !important;
+      font-size: 16px;
+  }
+  .mobRight a{
+      text-decoration: none;
+      color: black;
+  }
+  .mobRight a:hover {
+      color: rgb(142, 212, 68);
+  }
+  .menuContents{
+      display: block !important;
+      flex-direction: column;
+      position: absolute;
+      offset-position: right;
+      width: 90%;
+      background-color: white;
+      right: 0;
+      padding: 0px 15px;
+      margin-right: -1px;
+      box-shadow: 0 6px 12px rgb(0 0 0 / 18%);
+  }
+    .menuContents div {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        border-bottom: 1px solid;
+        border-bottom-color: rgb(231, 231, 231);
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-size: 20px;
+        font-weight: 500;
+        text-decoration: none;
+    }
+    .menuContents div a{
+        text-decoration: none;
+        color: black;
+    }
+    .menuContents .dropdown .btn{
+        background-color: rgb(142, 212, 68) !important;
+        border: none;
+        padding: 7px 80px;
+        font-size: 20px;
+    }
+    .planItems{
+        flex-direction: column;
+    }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+
+.header {
+    padding-left: 5vh;
+    padding-right: 5vh;
+    border-bottom-color: rgb(231, 231, 231);
+    font-weight: 400;
+    background-color: white;
+}
+.navbar-brand a{
+    cursor: pointer;
+}
+.header-left a {
+    text-decoration: none;
+    cursor: pointer;
+    color: rgb(51, 76, 24);
+    font-weight: 400;
+}
+
+.header-left a:hover {
+    color: rgb(142, 212, 68);
+}
+
+.header-right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-right div button {
+    background-color: rgb(142, 212, 68);
+    border: none;
+    border-radius: 0;
+}
+.header-right div button:hover {
+    background-color: rgb(142, 212, 68);
+}
+.header-right a{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.right-link:hover {
+    color: rgb(142, 212, 68);
+}
+.dropdown-menu {
+    border: none;
+    border-radius: 15px;
+    padding: 5px;
+    box-shadow: 0 6px 12px rgb(0 0 0 / 18%);
+}
+.dropdown-item{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 14px;
+}
+.dropdown-item:hover {
+    background-color: rgb(142, 212, 68);
+    border-radius: 5px;
+    box-shadow: 0 6px 12px rgb(0 0 0 / 18%);
+    color: black;
+}
+
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.btn:active{
+    background-color: black;
+}
+.carticon{
+    width: 20px;
+}
+
+.sliderParent{
+    width: 100%;
+    height: 720px;
+    background-color: black;
+    margin-top: 70px;
+}
+
+.sliderChild {
+    width: 100%;
+    height: 100%;
+    background: url(../assets/sliderHome.jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sliderText{
+    padding: 60px;
+    background-color: rgb(255,255,255, 0.7);
+}
+
+.textHeading{
+    font-size: 71px;
+    font-weight: 500;
+    line-height: 70px;
+}
+.textDescp{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.textBtn {
+    background-color: rgb(142, 212, 68);
+    color: white;
+    box-shadow: rgba(120, 137, 149, 0.25) 0px 2px 7px 0px;
+    padding: 13px 51px;
+    font-size: 20px;
+}
+
+.mobRight{
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.menuButton {
+    background-color: rgb(142, 212, 68);
+    border: none;
+    padding: 5px 10px;
+    margin-left: 5px;
+    color: white;
+}
+
+.menuContents{
+    display:none;
+}
+
+.HIWimage{
+    height: 200px;
+}
+
+.menuItem{
+    height: 100px;
+}
+
+.cartIcon {
+    background-color: rgb(142, 212, 68);
+    color: white;
+}
+
+.cartIcon:hover{
+    box-shadow: rgba(120, 137, 149, 0.25) 0px 2px 7px 0px;
+}
+
+.itemImage {
+    background-position: center;
+    background-size: cover;
+}
+
+.card{
+    padding: 0px;
+}
+.menuBoard{
+    display: flex;
+    justify-content: center;
+    height: 24rem;
+    width: 100%;
+    overflow:scroll;
+    margin-top: 70px;
+    background-color: white;
+}
+
+.card-body{
+    height: 148px;
+}
+
+.itemDescp {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    font-size: 11px;
+    height: 70px;
+}
+
+.itemCard {
+    box-shadow: rgba(120, 137, 149, 0.25) 0px 2px 7px 0px;
+}
+
+.itemCard:hover{
+    box-shadow: rgba(142, 212, 68, 1) 0px 2px 7px 0px;
+}
+
+.card-title{
+    font-size: 14px;
+}
+.textBtn{
+    margin: 70px;
+}
+
+.planItem {
+    box-shadow:rgba(0, 0, 0, 0.1)  0px 0px 20px 0px;
+    border-radius: 10px;
+}
+.planChooseButton {
+    background-color: rgb(142, 212, 68);
+    color: white;
+}
+.carousel {
+    margin-top: 50px;
+    height: 300px;
+    width: 100%;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+
+.carousel-caption {
+    top: 50%;
+    color: black;
+}
+
+.whatPeopleSaying {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #8ed44424;
+}
+
+footer {
+    background-color: #2d2d2d;
+    width:100%;
+}
+
+.upperMargin{
+    margin-top: 70px;
+}
