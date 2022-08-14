@@ -320,3 +320,10 @@ footer {
 .upperMargin{
     margin-top: 70px;
 }
+
+#contactSubmit {
+    background-color: rgb(142, 212, 68);
+    color: white;
+    box-shadow: rgba(120, 137, 149, 0.25) 0px 2px 7px 0px;
+    font-size: 17px;
+}
