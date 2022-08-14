@@ -8,81 +8,81 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EAD_Project
 build_property.RootNamespace = EAD_Project
-build_property.ProjectDir = C:\Users\hassa\source\repos\EAD_Project\EAD_Project\
+build_property.ProjectDir = C:\Users\hassa\OneDrive\Documents\EAD_Project\EAD_Project\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\hassa\source\repos\EAD_Project\EAD_Project
+build_property.MSBuildProjectDirectory = C:\Users\hassa\OneDrive\Documents\EAD_Project\EAD_Project
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/hassa/source/repos/EAD_Project/EAD_Project/Views/Common/Blog.cshtml]
+[C:/Users/hassa/OneDrive/Documents/EAD_Project/EAD_Project/Views/Common/Blog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbW9uXEJsb2cuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hassa/source/repos/EAD_Project/EAD_Project/Views/Common/Contact.cshtml]
+[C:/Users/hassa/OneDrive/Documents/EAD_Project/EAD_Project/Views/Common/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbW9uXENvbnRhY3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hassa/source/repos/EAD_Project/EAD_Project/Views/Common/FAQ.cshtml]
+[C:/Users/hassa/OneDrive/Documents/EAD_Project/EAD_Project/Views/Common/FAQ.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbW9uXEZBUS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hassa/source/repos/EAD_Project/EAD_Project/Views/Common/GrabandGo.cshtml]
+[C:/Users/hassa/OneDrive/Documents/EAD_Project/EAD_Project/Views/Common/GrabandGo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbW9uXEdyYWJhbmRHby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hassa/source/repos/EAD_Project/EAD_Project/Views/Common/PickupLocation.cshtml]
+[C:/Users/hassa/OneDrive/Documents/EAD_Project/EAD_Project/Views/Common/PickupLocation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbW9uXFBpY2t1cExvY2F0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hassa/source/repos/EAD_Project/EAD_Project/Views/Common/PrivacyPolicy.cshtml]
+[C:/Users/hassa/OneDrive/Documents/EAD_Project/EAD_Project/Views/Common/PrivacyPolicy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbW9uXFByaXZhY3lQb2xpY3kuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hassa/source/repos/EAD_Project/EAD_Project/Views/Home/Index.cshtml]
+[C:/Users/hassa/OneDrive/Documents/EAD_Project/EAD_Project/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hassa/source/repos/EAD_Project/EAD_Project/Views/Home/Privacy.cshtml]
+[C:/Users/hassa/OneDrive/Documents/EAD_Project/EAD_Project/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hassa/source/repos/EAD_Project/EAD_Project/Views/Home/slider.cshtml]
+[C:/Users/hassa/OneDrive/Documents/EAD_Project/EAD_Project/Views/Home/slider.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzbGlkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hassa/source/repos/EAD_Project/EAD_Project/Views/Shared/Error.cshtml]
+[C:/Users/hassa/OneDrive/Documents/EAD_Project/EAD_Project/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hassa/source/repos/EAD_Project/EAD_Project/Views/Shared/_crousalItem.cshtml]
+[C:/Users/hassa/OneDrive/Documents/EAD_Project/EAD_Project/Views/Shared/_crousalItem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9jcm91c2FsSXRlbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hassa/source/repos/EAD_Project/EAD_Project/Views/Shared/_footer.cshtml]
+[C:/Users/hassa/OneDrive/Documents/EAD_Project/EAD_Project/Views/Shared/_footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9mb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hassa/source/repos/EAD_Project/EAD_Project/Views/Shared/_Header.cshtml]
+[C:/Users/hassa/OneDrive/Documents/EAD_Project/EAD_Project/Views/Shared/_Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hassa/source/repos/EAD_Project/EAD_Project/Views/Shared/_planItem.cshtml]
+[C:/Users/hassa/OneDrive/Documents/EAD_Project/EAD_Project/Views/Shared/_planItem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9wbGFuSXRlbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hassa/source/repos/EAD_Project/EAD_Project/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/hassa/OneDrive/Documents/EAD_Project/EAD_Project/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hassa/source/repos/EAD_Project/EAD_Project/Views/_ViewImports.cshtml]
+[C:/Users/hassa/OneDrive/Documents/EAD_Project/EAD_Project/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hassa/source/repos/EAD_Project/EAD_Project/Views/_ViewStart.cshtml]
+[C:/Users/hassa/OneDrive/Documents/EAD_Project/EAD_Project/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hassa/source/repos/EAD_Project/EAD_Project/Views/Shared/_Layout.cshtml]
+[C:/Users/hassa/OneDrive/Documents/EAD_Project/EAD_Project/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-4lt7engkck

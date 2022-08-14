@@ -48,6 +48,7 @@ html {
       padding: 0px 15px;
       margin-right: -1px;
       box-shadow: 0 6px 12px rgb(0 0 0 / 18%);
+      visibility: hidden;
   }
     .menuContents div {
         width: 100%;

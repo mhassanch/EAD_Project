@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hassa\\source\\repos\\EAD_Project\\EAD_Project\\EAD_Project.csproj": {}
+    "C:\\Users\\hassa\\OneDrive\\Documents\\EAD_Project\\EAD_Project\\EAD_Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hassa\\source\\repos\\EAD_Project\\EAD_Project\\EAD_Project.csproj": {
+    "C:\\Users\\hassa\\OneDrive\\Documents\\EAD_Project\\EAD_Project\\EAD_Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hassa\\source\\repos\\EAD_Project\\EAD_Project\\EAD_Project.csproj",
+        "projectUniqueName": "C:\\Users\\hassa\\OneDrive\\Documents\\EAD_Project\\EAD_Project\\EAD_Project.csproj",
         "projectName": "EAD_Project",
-        "projectPath": "C:\\Users\\hassa\\source\\repos\\EAD_Project\\EAD_Project\\EAD_Project.csproj",
+        "projectPath": "C:\\Users\\hassa\\OneDrive\\Documents\\EAD_Project\\EAD_Project\\EAD_Project.csproj",
         "packagesPath": "C:\\Users\\hassa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hassa\\source\\repos\\EAD_Project\\EAD_Project\\obj\\",
+        "outputPath": "C:\\Users\\hassa\\OneDrive\\Documents\\EAD_Project\\EAD_Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
